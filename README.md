@@ -4,7 +4,7 @@
 ### 1. Clone source code
 
 ```bash
-git clone -b develop --single-branch https://github.com/thaisnek/6-2-TMDT-frontend.git
+git clone -b develop https://github.com/maituananh15/6-2-TMDT-frontend.git
 cd 6-2-TMDT-frontend
 ```
 
